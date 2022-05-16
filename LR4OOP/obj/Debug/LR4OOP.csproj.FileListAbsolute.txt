@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\LR4OOP\LR4OOP\bin\Debug\LR4OOP.exe.config
+C:\Users\user\source\repos\LR4OOP\LR4OOP\bin\Debug\LR4OOP.exe
+C:\Users\user\source\repos\LR4OOP\LR4OOP\bin\Debug\LR4OOP.pdb
+C:\Users\user\source\repos\LR4OOP\LR4OOP\obj\Debug\LR4OOP.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LR4OOP\LR4OOP\obj\Debug\LR4OOP.Form1.resources
+C:\Users\user\source\repos\LR4OOP\LR4OOP\obj\Debug\LR4OOP.Properties.Resources.resources
+C:\Users\user\source\repos\LR4OOP\LR4OOP\obj\Debug\LR4OOP.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LR4OOP\LR4OOP\obj\Debug\LR4OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LR4OOP\LR4OOP\obj\Debug\LR4OOP.exe
+C:\Users\user\source\repos\LR4OOP\LR4OOP\obj\Debug\LR4OOP.pdb
